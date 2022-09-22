@@ -7,7 +7,7 @@ Steps to run the project
 
 
 Disclaimers:
-# Project is dev tested on Android only.
-# All the strings are mentioned in line.
-# Scaling methods for sizes, margins etc. is not used.
-# Error screen for api fail is not implemented.
+- Project is dev tested on Android only. (due to lack of resource)
+- All the strings are mentioned in line.
+- Scaling methods for sizes, margins etc. is not used.
+- Error screen for api fail is not implemented.
